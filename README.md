@@ -1,4 +1,4 @@
-### Helloooo! I'm klleen! 👋
+### Helloooo! I'm Kylie! 👋
 
 I am currently trying to learn JavaScript and how to utilize the Node.JS runtime.
 
